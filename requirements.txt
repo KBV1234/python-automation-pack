@@ -1,1 +1,10 @@
 streamlit
+pandas
+openpyxl
+PyPDF2
+requests
+pyautogui
+qrcode
+beautifulsoup4
+gTTS
+
